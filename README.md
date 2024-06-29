@@ -27,13 +27,13 @@ The INA700DEV is compatible with:
 
 ### IC specifications:
 
-Low loss integrated shunt resistor
+## Low loss integrated shunt resistor
 
 – Internal resistance: 2 mΩ at TA = 25°C
 
 – Current rating: ±15 A at TA = 25°C
 
-High-resolution, 16-bit delta-sigma ADC
+## High-resolution, 16-bit delta-sigma ADC
 
 – Wide common-mode range: –0.3 V to +40 V
 
@@ -41,7 +41,7 @@ High-resolution, 16-bit delta-sigma ADC
 
 – Programmable conversion time and averaging
 
-Current monitoring accuracy:
+## Current monitoring accuracy:
 
 – Total Measurement Error: ±0.5% at 5 A
 
@@ -51,15 +51,15 @@ Current monitoring accuracy:
 
 – Gain error drift: ±50 ppm/°C (maximum)
 
-Power monitoring accuracy:
+## Power monitoring accuracy:
 
 – 0.85% accuracy at 5 A
 
-Energy and Charge accuracy:
+## Energy and Charge accuracy:
 
 – 1.35% accuracy at 5 A
 
-Others
+## Others
 
 Internal monitoring and fault detection
 
