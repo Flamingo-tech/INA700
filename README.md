@@ -65,6 +65,8 @@ Internal monitoring and fault detection
 
 Precision oscillator: ±0.5% (maximum)
 
+
+You can buy one here : https://www.tindie.com/products/theflamingo/ina700-dev/
 2.94-MHz High-Speed I2C interface with 4 pin- selectable addresses
 
 Operates from a 2.7-V to 5.5-V supply
