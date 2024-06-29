@@ -1,0 +1,45 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\INA700_DEV\Project Outputs for INA700_DEV\v1.0.0\Fabrication\Pick Place\INA700_DEV PCB v1.0 - Pick Place.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       29/06/24
+Time:       11:42
+Revision:   f05487569a5ab51192be7a1ba51ded2df0a8b942
+Variant:    Proto
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"C2","CM05X5R475M25AH","TopLayer","SMD-0402-CAP","24.0000","13.0000","180","CAP MLCC 0402 4.7uF 20% 25V X5R 0402"
+"C1","C0402C104K3RACTU","TopLayer","SMD-0402-CAP","23.0000","13.0000","180","CAP MLCC 0402 100nF 10% 25V X7R 0402"
+"X12","2MM-HB-D06-HT-02-H-TB","TopLayer","PH_2x6_2.00MM_TH_ANG","36.8000","15.0000","270","Header, SMT, Male, 12 Pin, 2 Row, 2.00mm Pitch,Right Angle,  Gold Plated"
+"TP3","TP_BOM","TopLayer","5015","29.0000","11.0000","90","Test Point with Part"
+"TP8","TP_BOM","TopLayer","5015","13.6000","28.5000","90","Test Point with Part"
+"X3","691502710002","TopLayer","TB_1x2_5.00MM_TH_STR","32.4998","4.0000","0",""
+"X6","691502710002","TopLayer","TB_1x2_5.00MM_TH_STR","19.9998","3.7500","0",""
+"X2","691502710002","TopLayer","TB_1x2_5.00MM_TH_STR","7.5000","4.0000","0",""
+"X11","61300211121","TopLayer","PH_1x2_2.54MM_TH_STR","18.5000","16.7500","90","Header, SMT, Male, 2 Pin, 1 Row, 2.54mm Pitch, Horizontal,  Gold Plated"
+"X10","61300211121","TopLayer","PH_1x2_2.54MM_TH_STR","21.5000","16.7500","90","Header, SMT, Male, 2 Pin, 1 Row, 2.54mm Pitch, Horizontal,  Gold Plated"
+"X9","61300211121","TopLayer","PH_1x2_2.54MM_TH_STR","24.5000","16.7500","90","Header, SMT, Male, 2 Pin, 1 Row, 2.54mm Pitch, Horizontal,  Gold Plated"
+"X8","61300211121","TopLayer","PH_1x2_2.54MM_TH_STR","15.5000","16.7500","90","Header, SMT, Male, 2 Pin, 1 Row, 2.54mm Pitch, Horizontal,  Gold Plated"
+"X7","2MM-HB-D06-HT-02-H-TB","TopLayer","PH_2x6_2.00MM_TH_ANG","3.2000","15.0000","90","Header, SMT, Male, 12 Pin, 2 Row, 2.00mm Pitch,Right Angle,  Gold Plated"
+"R1","ERJ-2RKF5101X","TopLayer","SMD-0402-RES","21.0000","12.5000","270","RES ,SMT, 5.1kO, 1%, 100mW, 100ppm/°C  0402"
+"R2","ERJ-2RKF5101X","TopLayer","SMD-0402-RES","19.0000","12.5000","90","RES ,SMT, 5.1kO, 1%, 100mW, 100ppm/°C  0402"
+"R3","ERJ-2RKF1001X","TopLayer","SMD-0402-RES","30.0000","16.8000","0","RES ,SMT, 1kO, 1%, 100mW, 100ppm/°C  0402"
+"R4","ERJ-2RKF1001X","TopLayer","SMD-0402-RES","10.0000","16.8000","0","RES ,SMT, 1kO, 1%, 100mW, 100ppm/°C  0402"
+"D1","150040RS73240","TopLayer","SMD-0402-LED-0.4H_RED","30.0000","15.0000","270","LED ,SMT, RED, 30mA, 3.2V  0402"
+"D2","150040GS73240","TopLayer","SMD-0402-LED-0.4H","10.0000","15.0000","270","LED ,SMT, GREEN, 30mA, 3.2V  0402"
+"X4","61300211121","TopLayer","PH_1x2_2.54MM_TH_STR","25.0000","11.0000","0","Header, SMT, Male, 2 Pin, 1 Row, 2.54mm Pitch, Horizontal,  Gold Plated"
+"X1","61300211121","TopLayer","PH_1x2_2.54MM_TH_STR","15.0000","11.0000","180","Header, SMT, Male, 2 Pin, 1 Row, 2.54mm Pitch, Horizontal,  Gold Plated"
+"X5","61300611121","TopLayer","PH_1x6_2.54MM_TH_STR","20.0000","25.5000","180","Header, SMT, Male, 6 Pin, 1 Row, 2.54mm Pitch, Horizontal,  Gold Plated"
+"U1","INA700AYWFR","TopLayer","YWF0008A-PowerWCSP_-_0.3mm","20.0000","9.9500","180","40-V 16-Bit I²C output digital power monitor"
+"TP7","TP_BOM","TopLayer","5015","16.1000","28.5000","90","Test Point with Part"
+"TP6","TP_BOM","TopLayer","5015","18.7000","28.5000","90","Test Point with Part"
+"TP5","TP_BOM","TopLayer","5015","23.8000","28.5000","90","Test Point with Part"
+"TP4","TP_BOM","TopLayer","5015","21.5000","28.5000","90","Test Point with Part"
+"TP2","TP_BOM","TopLayer","5015","11.0000","11.0000","270","Test Point with Part"
+"TP1","TP_BOM","TopLayer","5015","26.2500","28.5000","90","Test Point with Part"
+"FID3","FID","TopLayer","FID_1MM","2.0000","28.0000","0","Fiducial"
+"FID2","FID","TopLayer","FID_1MM","2.0000","2.5000","0","Fiducial"
+"FID1","FID","TopLayer","FID_1MM","38.0000","2.5000","0","Fiducial"
