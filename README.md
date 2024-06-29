@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Flamingo-tech/INA700/blob/main/Pictures/2024-06-29T09_58_00.211Z-Screenshot%202024-06-29%20115822.png"/>
+</p>
+
 ### What is it?
 
 The INA700 is a digital power monitor that includes an integrated shunt resistor and a 16-bit delta-sigma ADC, specifically designed for current sensing applications. It can measure currents up to ±15.728 A with a full-scale range, operating over a common-mode voltage range of –0.3 V to +40 V.
@@ -11,14 +15,15 @@ The INA700 is really really really cool! But it is very hard to use as a tinkere
 What makes it special?
 
 The INA700DEV is compatible with:
+- TI-SCB.
+- Breadboard Friendly!
+- Easy test points for logic analysers.
+- Arduino Library is comming :)
 
-    TI-SCB.
+<p align="center">
+  <img src="https://github.com/Flamingo-tech/INA700/blob/main/Pictures/INA-1.gif"/>
+</p>
 
-    Breadboard Friendly!
-
-    Easy test points for logic analysers.
-
-    Arduino Library is comming :)
 
 ### IC specifications:
 
