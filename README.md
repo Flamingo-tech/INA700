@@ -12,7 +12,8 @@ With low offset and gain error drift, the INA700 can be employed in systems with
 Why did you make it?
 
 The INA700 is really really really cool! But it is very hard to use as a tinkerer because of the component size. This is why I build an opensource DEV board that people can use ^^.
-What makes it special?
+
+### What makes it special?
 
 The INA700DEV is compatible with:
 - TI-SCB.
